@@ -1902,5 +1902,27 @@
     "releaseDate": {
       "S1": "16 december 2021"
     }
-  }
+  },
+  {
+    "id": 99,
+    "name": "Dude",
+    "rating": 8.5,
+    "description": "Dude depicts the life of a detective, scrambling to hunt down the answers behind a baffling case. It reels him into twisted relationships filled with perplexing events.",
+    "category": ["Thriller", "Drama", "Mystery"],
+    "platform": "Amazon Mini TV",
+    "casting": {
+      "actors": [
+        "Ambrish Verma",
+        "Arun Kushwah",
+        "Apoorva Arora"
+      ],
+      "director": ["Ambrish Verma", "Neel Jadhav"]
+    },
+    "poster": "https://www.imdb.com/title/tt14136452/?ref_=ttfc_fc_tt",
+    "episodeCount": 10,
+    "seasons": 2,
+    "releaseDate": {
+      "S1": "16 december 2021"
+    }
+ }
 ]
